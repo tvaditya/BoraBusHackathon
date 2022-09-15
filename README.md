@@ -1,5 +1,5 @@
 # BoraBusHackathon
-_Prever satisfação dos clientes com relação aos serviços do BoraBusão!_ 
+_Prever a satisfação dos clientes com relação aos serviços do BoraBusão!_ 
 
 ## Objetivos
 E aí? O que queremos fazer? Aonde queremos chegar com isso?
