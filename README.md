@@ -9,7 +9,7 @@ E aí? O que queremos fazer? Aonde queremos chegar com isso?
 <br>_Entender o MLFlow._</br>
 <br>_A **métrica** a ser avaliada para a previsão de satisfação dos clientes será a **acurácia**._ Mas iremos pedir a curva ROC e a métrica KS apenas para enriquecerem os resultados.</br>
 
-> Os trabalhos entregues serão avaliados em um dataset separada e desconhecido de vocês. Por favor, criem um repositório no github com as soluções, e sigam o cookie cutter de data science como padrão https://github.com/drivendata/cookiecutter-data-science
+> Os trabalhos entregues serão avaliados em um dataset separada e desconhecido de vocês. Por favor, **criem um repositório no github com as soluções**, e sigam o cookie cutter de data science como padrão https://github.com/drivendata/cookiecutter-data-science
 
 ## Sobre o dataset
 
