@@ -5,6 +5,7 @@ _Prever a satisfação dos clientes com relação aos serviços do BoraBusão!_
 E aí? O que queremos fazer? Aonde queremos chegar com isso?
 
 <br>_Entender como usar e criar TransformerMixin e BaseEstimators do pacote SKLearn._</br>
+<br>_Criar pipelines._</br>
 <br>_Entender como salvar transformacões em binários e como recuperar eles e usar para gerar previsões._</br>
 <br>_Entender o MLFlow._</br>
 <br>_A **métrica** a ser avaliada para a previsão de satisfação dos clientes será a **acurácia**._ Mas iremos pedir a curva ROC e a métrica KS apenas para enriquecerem os resultados.</br>
