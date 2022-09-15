@@ -13,7 +13,7 @@ E aí? O que queremos fazer? Aonde queremos chegar com isso?
 
 ## Sobre o dataset
 
-O conjunto de dados veio de uma enquete com os cliente da BoraBusão e queremos saber se com estes dados podemos prever a satisfação dos clientes com os serviços da empresa. (**Lembrando que tanto a empresa citada quanto os dados são fictícios e alterados**)
+O conjunto de dados veio de uma enquete com os clientes da BoraBusão e queremos saber se com estes dados podemos prever a satisfação dos mesmos com os serviços da empresa. (**Lembrando que tanto a empresa citada quanto os dados são fictícios e alterados**)
 
 ### Features e contexto
 <ul>
