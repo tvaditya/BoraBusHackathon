@@ -45,7 +45,7 @@ O conjunto de dados veio de uma enquete com os cliente da BoraBusão e queremos 
 ## Alguns procedimentos
 O dataset tem variáveis categóricas que precisam ser tratados e salvos como binários (usando pickle ou joblib) pois as transformações irão refletir no modelos, para entender melhor esse processo tomem como exemplo esse repositótio aqui https://github.com/vivianyamassaki/kaggle_titanic_deploy .
 
-> Lembrando que além das transformações a avaliação usará um dataset externo. Então antes de fazer qualquer transformação já separem um conjunto de testes com 10% do tamanho original para validar o modelo final. **CUIDADO!! Isso é diferente de separa o dataset em treino e teste na hora de gerar o modelo** nessa etapa voces terão um conjunto de treino, um de teste e um de validação já com as transformações geradas por vocês, e que voces irão usar para ajustar a acurácia do modelo gerado.
+> Lembrando que além das transformações a avaliação usará um dataset externo. Então antes de fazer qualquer transformação já separem um conjunto de testes com 10% do tamanho original para validar o modelo final. **CUIDADO!! Isso é diferente de separar o dataset em treino e teste na hora de gerar o modelo** nessa etapa voces terão um conjunto de treino, um de teste e um de validação já com as transformações geradas por vocês, e que voces irão usar para ajustar a acurácia do modelo gerado.
  Então sigam esse procedimento, separem o dataset da seguinte forma:
  <ul>
   <li> Teste final - 10%, será usado apenas com o binário gerado a partir do seu modelo final.</li>
