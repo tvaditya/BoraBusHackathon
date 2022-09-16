@@ -8,7 +8,8 @@ E aí? O que queremos fazer? Aonde queremos chegar com isso?
 <br>_Criar pipelines._</br>
 <br>_Entender como salvar transformacões em binários e como recuperar eles e usar para gerar previsões._</br>
 <br>_Entender o MLFlow._</br>
-<br>_A **métrica** a ser avaliada para a previsão de satisfação dos clientes será a **acurácia**._ Mas iremos pedir a curva ROC e a métrica KS apenas para enriquecerem os resultados.</br>
+<br>_A **métrica** a ser avaliada para a previsão de satisfação dos clientes será a **acurácia**._ Mas é importante mostrar a curva ROC e a métrica KS apenas para enriquecerem os resultados, será obrigatório gerá-los e interpertar os resultados dos mesmos.</br>
+
 
 > Os trabalhos entregues serão avaliados em um dataset separada e desconhecido de vocês. Por favor, **criem um repositório no github com as soluções**, e sigam o cookie cutter de data science como padrão https://github.com/drivendata/cookiecutter-data-science
 
