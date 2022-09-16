@@ -62,10 +62,13 @@ Terão 8 minutos para defenderem os resultados achados.
 > O vencedor será anunciado no dia 26/09, os 3 primeiros colocados irão mostrar os resultados. 
 > As outras apresentações também serão avaliadas, mas em outro momento.
 
+<br><strong> A data da entrega é 23/09 até as 09:30 da manhã.</strong></br>
 ### Lembretes
 A entrega deve conter:
 > Um repositório github com a solução desenvolvida e os binários gerados.
-> Uma apresentação .ppt com 4 slides no máximo. 
+> Uma apresentação .ppt com 4 slides no máximo.
+
+
 
 
 <p> <strong>BOA SORTE AOS PARTICIPANTES</strong> </p>
