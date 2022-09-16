@@ -62,10 +62,10 @@ Terão 8 minutos para defenderem os resultados achados.
 > As outras apresentações também serão avaliadas, mas em outro momento.
 
 ### Lembretes
-<p>A enrtega deve conter:</p>
-> Um repositótio github com a solução desenvolvida e os binários gerados
-> Uma apresentação .ppt com 4 slides no máximo 
+A entrega deve conter:
+> Um repositório github com a solução desenvolvida e os binários gerados.
+> Uma apresentação .ppt com 4 slides no máximo. 
 
 
-<p> **BOA SORTE AOS PARTICIPANTES** </p>
+<p> <strong>BOA SORTE AOS PARTICIPANTES</strong> </p>
 
