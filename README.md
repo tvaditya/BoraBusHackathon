@@ -50,8 +50,8 @@ O dataset tem variáveis categóricas que precisam ser tratados e salvos como bi
 > Lembrando que além das transformações a avaliação usará um dataset externo. Então antes de fazer qualquer transformação já separem um conjunto de testes com 10% do tamanho original para validar o modelo final. **CUIDADO!! Isso é diferente de separar o dataset em treino e teste na hora de gerar o modelo** nessa etapa voces terão um conjunto de treino, um de teste e um de validação já com as transformações geradas por vocês, e que voces irão usar para ajustar a acurácia do modelo gerado.
  Então sigam esse procedimento, separem o dataset da seguinte forma:
  <ul>
-  <li> Teste final - 10%, será usado apenas com o binário gerado a partir do seu modelo final.</li>
-  <li> Etapa de geraçao do Modelo - Treino 60%, Teste 15% , Validação 15% </li>
+  <li> <strong>Teste final</strong> - 10%, será usado apenas com o binário gerado a partir do seu modelo final.</li>
+  <li> <strong>Etapa de geraçao do Modelo</strong> - Treino 60%, Teste 15% , Validação 15% </li>
 </ul>
 
 ## Apresentação dos resultados.
