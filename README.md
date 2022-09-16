@@ -53,5 +53,10 @@ O dataset tem variáveis categóricas que precisam ser tratados e salvos como bi
   <li> Etapa de geraçao do Modelo - Treino 60%, Teste 15% , Validação 15% </li>
 </ul>
 
+## Apresentação dos resultados.
 
+Gerar um .ppt com no maximo 4 slides de conteúdo, que será apresentado para todos no dia 26/09 as 15h.
+Terão 8 minutos para defenderem os resultados achados.
+
+> O vencedor será anunciado no dia 26/09
 
