@@ -59,10 +59,10 @@ O dataset tem variáveis categóricas que precisam ser tratados e salvos como bi
 Gerar um .ppt com no maximo 4 slides de conteúdo, que será apresentado para todos no dia 26/09 as 15h.
 Terão 8 minutos para defenderem os resultados achados.
 
-> O vencedor será anunciado no dia 26/09, os 3 primeiros colocados irão mostrar os resultados. 
+> O vencedor será anunciado no dia 26/09/2022, os 3 primeiros colocados irão mostrar os resultados. 
 > As outras apresentações também serão avaliadas, mas em outro momento.
 
-<br><strong> A data da entrega é 23/09 até as 17:00h (fim do expediente DM).</strong></br>
+<br><strong> A data da entrega é 23/09/2022 até as 17:00h (fim do expediente DM).</strong></br>
 ### Lembretes
 A entrega deve conter:
 > Um repositório github com a solução desenvolvida e os binários gerados.
